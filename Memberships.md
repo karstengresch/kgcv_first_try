@@ -1,0 +1,1 @@
+  - ACM Professional Member.  - IEEE Professional Member.  - GIeV (German Association for Computer Science).  - ASQF e.V.  - British-German Society.  - Städelscher Museumsverein Frankfurt.  - Local Meetup activities (esp. Cocoapods and Microservices communities).
